@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="ApplicationContext Mvc" removed="false">
+          <file>file://$MODULE_DIR$/../crm-project/crm/src/main/resources/applicationContext-mvc.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/..">
+      <sourceFolder url="file://$MODULE_DIR$/crm-project/crm/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crm-project/crm/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/crm-project/crm/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crm-project/crm/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
+  </component>
+</module>
